@@ -13,10 +13,6 @@
     </style>
     <!-- Font Awesome Icons -->
     <style>
-        body {
-            font-family: 'Source Sans Pro', sans-serif;
-        }
-
         .table {
             width: 100%;
             margin-bottom: 1rem;
@@ -76,8 +72,8 @@
     <div class="container">
         <div class="card">
             <div class="card-body">
-                <h3 class="text-center">Toko Sekar</h3>
-                <p class="text-center">Jalan Gajah Mada 2B Beteng, Sidomekar, Semboro <br> Jember 68157</p>
+                <h3 class="text-center">Toko LW</h3>
+                <p class="text-center">Jalan tegalwangi , jatisongo <br> Jember 68157</p>
                 <table class="table">
                     <tr>
                         <td>
